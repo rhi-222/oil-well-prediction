@@ -51,7 +51,7 @@ Each dataset contains:
 - **Data Distribution:** Some regions have **higher variability** in oil reserves.
 
 #### **Oil Reserve Distribution Across Regions**
-<img src="images/oil_distribution.png" alt="Oil Reserve Distribution" width="300">
+<img src="images/oil_distribution.png" alt="Oil Reserve Distribution" width="400">
 
 ---
 
